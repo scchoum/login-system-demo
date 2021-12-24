@@ -17,8 +17,8 @@ mysql> create database login_system
 spring:
     datasource:
         url: jdbc:mysql://localhost:3306/login_system?useSSL=false
-        username: <YOUR_DB_USERNAME>
-        password: <YOUR_DB_PASSWORD>
+        username: <DB_USERNAME>
+        password: <DB_PASSWORD>
 ```
 
 **Run spring-social**
