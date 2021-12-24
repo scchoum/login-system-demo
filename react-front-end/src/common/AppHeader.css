@@ -1,0 +1,11 @@
+.app-header {
+    height: 80px;
+    position: relative;
+    z-index: 10;
+}
+
+.app-title {
+    line-height: 100px;
+    vertical-align: middle;
+    font-size: 36px;
+}

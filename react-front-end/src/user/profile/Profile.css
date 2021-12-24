@@ -1,0 +1,16 @@
+.profile-container {
+    text-align: center;
+    position: relative;
+    padding-top: 100px;
+}
+
+.profile-name {
+    font-weight: 600;
+    font-size: 36px;
+    margin-top: 100px; 
+}
+
+.profile-email {
+    font-weight: 400;
+    font-size: 18px;
+}
