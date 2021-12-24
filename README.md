@@ -15,10 +15,10 @@ mysql> create database login_system
 ```yaml
 # spring-back-end/src/main/resources/application.yaml
 spring:
-	datasource:
-	    url: jdbc:mysql://localhost:3306/login_system?useSSL=false
-	    username: <YOUR_DB_USERNAME>
-	    password: <YOUR_DB_PASSWORD>
+    datasource:
+        url: jdbc:mysql://localhost:3306/login_system?useSSL=false
+        username: <YOUR_DB_USERNAME>
+        password: <YOUR_DB_PASSWORD>
 ```
 
 **Run spring-social**
